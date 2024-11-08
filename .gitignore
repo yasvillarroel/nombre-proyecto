@@ -1,0 +1,18 @@
+#Dependencias de Node_modules
+node_modules/
+# Aqui cuando se suba el proyecto no se sube la carpeta de node_modules, la estamos ignorando
+
+#Archivos y carpetas de compilación
+platforms/
+plugins/
+www/
+build/
+
+# Archivos de entorno de desarrollo
+.idea/
+.vscode/
+.DS_Store
+.env
+
+#Logs y reportes
+*.log
